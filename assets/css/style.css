@@ -482,3 +482,10 @@ border-radius: 8px;
   width: 250px !important; 
   height: 250px !important;
 }
+@media(min-width:1600px){
+  .mount_img{
+    width: 30vw !important;
+    height: 50vh !important;
+
+  }
+}
