@@ -488,4 +488,16 @@ border-radius: 8px;
     height: 50vh !important;
 
   }
+  .footer {
+    background-image: url('../images/footer_bg.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    min-height: auto;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -100px;
+  }
 }
